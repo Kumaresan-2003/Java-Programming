@@ -1,0 +1,41 @@
+Arrays 
+1.PS1 - Arrange the elements in Array
+2.PS2 - Sort even-placed elements in increasing and odd-placed in decreasing order.(Botonic sort)
+3.PS3 - Program  that returns the unique elemnets and count of it 
+4.PS4 -Sum of Countpair in arr.
+5.PS5 - returns Unique  duplicate elements in arr
+6.PS6- program to remove the Duplicate elemnts in array.
+7.PS7 -Equilibrium POINT IN ARR
+8.PS8- Max subarray is Contignous(Kadane Algorithm)
+9.PS9- LONGEST PREFIX STRING
+10.PS10- Identity matrix 
+11.PS11-MERGE ARRAY FORM 2 ARRAYS 
+12.PS12 -Program  that returns the unique elemnets and count of it.
+13.PS13- return the Prime  Number in arrays.
+14.PS14- RETURN duplicate mORE THAN 1.
+15.PS15-Reverse ARRAY
+16.PS16- printing  the Matrix of Java.
+
+NUMBERS OPERATION 
+1.NUM1 - Binaryadder.
+2.NUM2 - coverting the decimal to binary number.
+3.NUM3 - FIBONNACI  SERIES 
+4.NUM4- Fraction adder in numbers 2.
+5.NUM5 -GCD Calculator IN TWO NUMBERS.
+6.NUM6-program to find the minimum number of Handshake.
+7.NUM7-  Power OF NUMBERS 
+8.NUM8- printing the prime Numbers only.
+9.NUM9- Program to Replace the '0' all value in integer to 1;
+
+STRINGS
+
+1.Str1=Accesing the  characters in String.
+2.Str2= type conversion in java 1.Boolean to string 2.
+3.Str3= String to String Array.
+4.Str4=commonPrefix in thir String.
+5.Str5= Removing the Unnessary
+6.Str6= Patternsearching in Patricular String with Another.
+7.Str7=String perservation of reversal.
+8.Str8= String reverse
+9.Str9= To find the value of Vowel or Const.
+10.Str10=
